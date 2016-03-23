@@ -3,7 +3,7 @@ Simple tournament pairing script written in Python. Implements the pairing metho
 
 Steamroller tournament format: http://privateerpress.com/organized-play/steamroller-tournaments
 
-The script is designed to work with the accompanying spreadsheet.
+The script is designed to work with the included spreadsheet.
 
 ============
 Instructions
