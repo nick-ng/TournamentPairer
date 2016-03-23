@@ -5,11 +5,10 @@ Steamroller tournament format: http://privateerpress.com/organized-play/steamrol
 
 The script is designed to work with the included spreadsheet.
 
-============
-Instructions
-============
 
+# Instructions
 Before:
+
 0:	Read all instructions before the tournament and practice using the program using the provided "2016 Ides of March After Round 4.ods" spreadsheet.
 
 1:	Download Python 3.5 (or higher) from https://www.python.org
